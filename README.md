@@ -13,9 +13,10 @@ This visualization displays blues artists' relationships, clustered by both loca
 
 The center cluster is full of Delta Blues Singers, artists from the south like BB King. Connected to BB by Robert Johnson are the Chicago Blues men, including Muddy Waters and Howlin’ Wolf. This cluster collaborated with Paul Butterfield, who is perhaps best known for playing with John Mayall and Eric Clapton. This cluster leans more towards rock and roll. On the other side of the Delta Blues Cluster, Eddie “Cleanhead” Vinson connects a jazz cluster. Finally, a “bad ass women” cluster also connects to the Delta Blues Singers at with Big Mama Thorton, a fellow Texan to Albert King. 
 
-**Interactions and interpretation:** On hover, the name of each node appears. On click in legend, the colors are highlighted, which shows the viewer the importance and popularity of certain instruments, and the variety of instruments and individuals that draw the most connectivity. I chose a force-directed diagram because I wanted to emphasize the connections and relationships between individuals, more than the individual names themselves. 
+## Interactions and interpretation:
+On hover, the name of each node appears. On click in legend, the colors are highlighted, which shows the viewer the importance and popularity of certain instruments, and the variety of instruments and individuals that draw the most connectivity. I chose a force-directed diagram because I wanted to emphasize the connections and relationships between individuals, more than the individual names themselves. 
 
 
-#### other resources in this repo
+#### Other resources in this repo
 * web scrape for exploration: scraping "associated acts" from wikipedia to compile initial dataset (I ended up going with a personal dataset instead)
 
