@@ -1,6 +1,8 @@
 # box_of_rain
 
 Available publicly at: [sebscho.pythonanywhere.com](sebscho.pythonanywhere.com)
+Created for Data Vis course at NYU's Center for Urban Science and Progress
+
 ---
 ## Project description/ motivation
 In the 1970s, my dad operated a radio station out of his home and owned three record (and waterbed) stores in Spokane, Washington. Thousands of records ended up in our basement. [‘Box of Rain’](http://www.sebscho.com/boxofrain) is a project about music, design and family as my brother and I attempt to catalogue my dad's vinyl collection. 
