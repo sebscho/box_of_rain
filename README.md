@@ -1,6 +1,6 @@
 # box_of_rain
 
-Available publicly at: [sebscho.pythonanywhere.com](sebscho.pythonanywhere.com)
+Available publicly at: sebscho.pythonanywhere.com
 Created for Data Vis course at NYU's Center for Urban Science and Progress
 
 ---
